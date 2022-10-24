@@ -1,16 +1,14 @@
-# Tech Shields
+# Shields Library
 
 ## Description
 
-Each of these tech shields represent technologies that UCF Coding Bootcamp students have learned. Each one is a clickable link to the resource it represents.
+This file is for storing regularly used shields. For information on how to generate shields check out the docs on [shields.io](https://shields.io/). 
 
-For information on how to generate shields check out the docs on [shields.io](https://shields.io/). 
-
-The structure of the badge as a link looks like this:
+The structure of the shield as a link looks like this:
 
 ```
 <!-- NOTE: Generic Link -->
-[![ALT TEXT](https://img.shields.io/badge/LEFT-RIGHT-COLOR?&MODIFIERS)](BUTTON LINK)
+[![ALT TEXT](https://img.shields.io/badge/LEFT-RIGHT-COLOR?&MODIFIERS)](LINK)
 
 <!-- NOTE: Example Link -->
 [![Tailwind CSS Shield](https://img.shields.io/badge/Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
