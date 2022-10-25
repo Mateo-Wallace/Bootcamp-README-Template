@@ -12,7 +12,7 @@ This repo is an easy to use template for making a quality README.md. Geared towa
 - [Mateo Custom README](./assets/Libraries/MATEOREADME.md)
 - [Blank README](./assets/Libraries/BLANKREADME.md)
 - [Filled README](./assets/Libraries/FILLEDREADME.md)
-- [Shields Library](./Shields_Library.md)
+- [Shields Library](./assets/Libraries/Shields_Library.md)
 
 ### Built With
 
