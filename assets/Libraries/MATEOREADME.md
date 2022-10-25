@@ -1,12 +1,12 @@
 <p id="readme-top"></p>
 
-[![License Shield](https://img.shields.io/badge/License-XXX-success?style=for-the-badge)](./LICENSE) [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin)](#)
+[![License Shield](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](./LICENSE) [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateo-wallace-57931b254/)
 
 # Project Title
 
 ## Description
 
-Description text
+"What is it?", "Why did you build it", "What problem does it solve?"
 
 While building this project I learned to:
 
@@ -14,7 +14,7 @@ While building this project I learned to:
 
 ### Built With
 
-[![Template Shield](https://img.shields.io/badge/Template-000000?&style=for-the-badge)](#)
+[![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=272727)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Node.js Shield](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -26,13 +26,13 @@ While building this project I learned to:
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
-Install comment: 
+Installation comment: 
 
-1. Numbered List
+1. List
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
-1. Numbered List
+1. List
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
@@ -53,19 +53,19 @@ Test Description
 
 ## License
 
-Distributed under the XXX License. See [LICENSE](./LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
 For any further questions feel free to contact me via:
-- GitHub: [GitHub Username](#)
-- Email: [Your Email](mailto:#)
-- LinkedIn: [Name on LinkedIn](#)
+- GitHub: [Mateo-Wallace](https://github.com/Mateo-Wallace)
+- Email: [mateo.t.wallace@gmail.com](mailto:mateo.t.wallace@gmail.com)
+- LinkedIn: [Mateo Wallace](https://www.linkedin.com/in/mateo-wallace-57931b254/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
 Special thanks to these resources. You have proven invaluable to creating this project:
-- [Websites, People, and Third Party Resources that aren't already listed under 'Built With'](#)
+- [List](#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

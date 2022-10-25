@@ -9,8 +9,9 @@
 This repo is an easy to use template for making a quality README.md. Geared towards educational courses and personal learning projects. See the rest of this README for information on how to use and contribute to the repo. 
 
 ### Directories
-- [Blank README]()
-- [Filled README]()
+- [Mateo Custom README](./assets/Libraries/MATEOREADME.md)
+- [Blank README](./assets/Libraries/BLANKREADME.md)
+- [Filled README](./assets/Libraries/FILLEDREADME.md)
 - [Shields Library](./Shields_Library.md)
 
 ### Built With
