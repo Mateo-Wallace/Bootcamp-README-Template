@@ -70,3 +70,5 @@ Special thanks to these resources. You have proven invaluable to creating this p
 - [Othneil Drew - Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 - [Shields.io](https://shields.io/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)

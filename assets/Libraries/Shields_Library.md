@@ -44,3 +44,11 @@ Example Output:
 [![Node.js Shield](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 [![Tailwind CSS Shield](https://img.shields.io/badge/Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
+[![Git Shield](https://img.shields.io/badge/GIT-F05033?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![GitHub Shield](https://img.shields.io/badge/GitHub-121011?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+[![VS Code Shield](https://img.shields.io/badge/VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+[![Canva Shield](https://img.shields.io/badge/Canva-333333?&style=for-the-badge&logo=canva)](https://www.canva.com/)
