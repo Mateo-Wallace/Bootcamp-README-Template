@@ -13,6 +13,7 @@ This repo is an easy to use template for making a quality README.md. Geared towa
 - [Blank README](./assets/Libraries/BLANKREADME.md)
 - [Filled README](./assets/Libraries/FILLEDREADME.md)
 - [Shields Library](./assets/Libraries/Shields_Library.md)
+- [Widgets Library](./assets/Libraries/Widget_Library.md)
 
 ### Built With
 
