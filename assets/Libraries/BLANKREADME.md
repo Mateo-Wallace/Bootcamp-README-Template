@@ -1,71 +1,36 @@
-<p id="readme-top"></p>
+# RRRE - Regroup, Refactor, Regrade Event
 
-[![License Shield](https://img.shields.io/badge/License-XXX-success?style=for-the-badge)](./LICENSE) [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin)](#)
+## When
 
-# Project Title
+- Date: Sunday 10/30
+- Time: 10am - 3pm
 
-## Description
+## What Is It?
 
-Description text
+We will be hosting an event that connects students who did well on module challenge’s with those who got grades they would like to improve. We will primarily be focusing on homework’s that have already been graded. This focus is so that we can attempt to improve your work based on the graders feedback.
 
-While building this project I learned to:
+## How do Regrades Work?
 
-- List
+You have 4 attempts total on each assignment. As far as we can tell the date you submit does not matter. So, take your time. 
 
-### Built With
+We also believe that the graders are using rubrics from the previous year that have different acceptance criteria. The only way to get those grades corrected is to speak with a TA or John. I highly recommend Seth Wooten specifically for this. 
 
-[![Template Shield](https://img.shields.io/badge/Template-000000?&style=for-the-badge)](#)
+## How To Contribute
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+See the contacts below and we will pair you up. Let us know how many people you feel comfortable tutoring. Even if you only want to help tutor 1 person that is fine. 
 
-## Installation
-Install comment: 
+### Why Should You Contribute
 
-1. Numbered List
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+On LinkedIn people can "give kudos" and give "reccomendations". This is a perfect opportunity for people who received help to write a message such as the following.
 
-## Usage
-1. Numbered List
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+"< X Person > helped tutor me during a UCF Coding Bootcamp Regroup, Refactor, Regrade Event. Wonderful person and immensely generous to give their time to me during the bootcamp."
 
-## Contributing
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Tests
-
-### Test 1
-Test Description
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## License
-
-Distributed under the XXX License. See [LICENSE](./LICENSE) for more information.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![linkedIn](./Screenshot%202022-10-27%20154527.png)
 
 ## Contact
 
-For any further questions feel free to contact me via:
-- GitHub: [GitHub Username](#)
-- Email: [Your Email](mailto:#)
-- LinkedIn: [Name on LinkedIn](#)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
-
-Special thanks to these resources. You have proven invaluable to creating this project:
-- [Websites, People, and Third Party Resources that aren't already listed under 'Built With'](#)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+For any further questions feel free to contact:
+- Mateo Wallace
+    - Discord: Mint#6901
+- Mary Elenius
+    - Discord: 404Pandas
