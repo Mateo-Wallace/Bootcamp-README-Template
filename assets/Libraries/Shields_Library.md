@@ -27,7 +27,9 @@ Example Output:
 
 [![License Shield](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](./LICENSE)
 
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateo-wallace-57931b254/)
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateo-wallace/)
+
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-wallace/)
 
 [![Bootstrap CSS Shield](https://img.shields.io/badge/Bootstrap_CSS-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -52,3 +54,25 @@ Example Output:
 [![VS Code Shield](https://img.shields.io/badge/VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 [![Canva Shield](https://img.shields.io/badge/Canva-333333?&style=for-the-badge&logo=canva)](https://www.canva.com/)
+
+ [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateo.t.wallace@gmail.com) 
+ 
+ [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Magic_Man_Mateo) 
+ 
+ [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateo_wallace/)
+
+[![Express Shield](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/)  
+
+[![mySQL Shield](https://img.shields.io/badge/mySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+
+[![Sequelize Shield](https://img.shields.io/badge/Sequelize-52B0E7?&style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)  
+
+[![Handlebars Shield](https://img.shields.io/badge/Handlebars-E34F26?&style=for-the-badge&logo=handlebars.js&logoColor=white)](https://handlebarsjs.com/) 
+
+[![Materialize Shield](https://img.shields.io/badge/Materialize_CSS-eb7374?&style=for-the-badge&logo=matomo&logoColor=white)](https://materializecss.com/)
+
+[![Heroku Shield](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what)  
+
+[![DBeaver Shield](https://img.shields.io/badge/DBeaver-58bbbd?&style=for-the-badge&logo=datadog&logoColor=white)](https://dbeaver.io/) 
+
+[![Insomnia Shield](https://img.shields.io/badge/Insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white)](https://docs.insomnia.rest/)
